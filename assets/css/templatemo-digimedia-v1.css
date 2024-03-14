@@ -1889,9 +1889,22 @@ footer {
 }
 
 footer p {
+  margin: 20px 0px;
+  color: #fff;
+  justify-content: center;
+}
+footer .righta {
+  text-align: right;
+  margin: 20px 0px;
+  color: #fff;
+  justify-content: center;
+}
+
+footer .rightab {
   text-align: center;
   margin: 20px 0px;
   color: #fff;
+  justify-content: center;
 }
 
 footer p a {
