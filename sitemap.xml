@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        
+    <url>
+        <loc>https://flexboom.media</loc>
+        <lastmod>2024-03-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/#about</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/#services</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/#blogpost</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/#contact</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/seo</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/websites</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/logo</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/business-card</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/blog-posts-media/blog</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/blog-posts-media/contact-us</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/blog-posts-media/home</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/blog-posts-media/all</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/blog-posts-media/blog-post</loc>
+    </url>
+
+    <url>
+        <loc>https://flexboom.media/seo-blog</loc>
+    </url>
+    
+    <url>
+        <loc>https://flexboom.media/faq</loc>
+    </url>
+</urlset>

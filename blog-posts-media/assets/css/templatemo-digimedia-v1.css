@@ -1654,7 +1654,6 @@ Blog
 
 .blog-post .down-content .border-first-button {
   display: inline-block;
-  float: right;
 }
 
 .blog-posts {
@@ -1671,7 +1670,6 @@ Blog
 
 .post-item .thumb {
   display: inline-block;
-  float: left;
   margin-right: 30px;
 }
 

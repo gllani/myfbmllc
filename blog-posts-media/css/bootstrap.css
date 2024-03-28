@@ -147,12 +147,7 @@ select {
   text-transform: none;
 }
 
-button,
-html [type="button"],
-[type="reset"],
-[type="submit"] {
-  -webkit-appearance: button;
-}
+
 
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
@@ -207,7 +202,6 @@ textarea {
 }
 
 [type="search"] {
-  -webkit-appearance: textfield;
   outline-offset: -2px;
 }
 
@@ -485,12 +479,6 @@ input[type="checkbox"]:disabled {
   cursor: not-allowed;
 }
 
-input[type="date"],
-input[type="time"],
-input[type="datetime-local"],
-input[type="month"] {
-  -webkit-appearance: listbox;
-}
 
 textarea {
   resize: vertical;
@@ -512,9 +500,6 @@ legend {
   line-height: inherit;
 }
 
-input[type="search"] {
-  -webkit-appearance: none;
-}
 
 output {
   display: inline-block;
@@ -3717,8 +3702,6 @@ tbody.collapse.show {
           background-size: 8px 10px;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;
-  -moz-appearance: none;
-  -webkit-appearance: none;
 }
 
 .custom-select:focus {
@@ -5394,7 +5377,6 @@ button.close {
   cursor: pointer;
   background: transparent;
   border: 0;
-  -webkit-appearance: none;
 }
 
 .modal-open {
